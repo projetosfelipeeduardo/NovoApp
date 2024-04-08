@@ -1,0 +1,54 @@
+Tabela de PRODUTOS
+    Cod.Sistema
+    Categoria
+    Nome
+    Preço de Custo
+    Preço de Venda
+    Media
+    Estoque 
+    Estoque Min 
+    Situação do Estoque
+    Ficha Tecnica
+    Status de Venda
+    Codigo PDV
+
+Produtos POR TAMANHO
+    Cod. Sistema
+    Tipo 
+    Categoria
+    Nome
+    Preço de Venda
+    Medida 
+    Ficha Tecnica
+
+Combos
+    Cod Sistema
+    Categoria
+    Nome
+    Preço de Custo
+    Preço de Venda
+    Status Venda
+    Cod. PDV
+
+
+Tela de CATEGORIA de PRODUTOS
+
+    ID (ORDEM)
+    Categoria do Produtos
+
+Tela TIPOS e TAMANHOS
+    Tipo - PRODUTOS
+    Tamaho - P M G
+    Produtos vinculados 
+    Valores
+
+Tela de Pagamentos - Cadastro
+    Dinheiro
+    Chegue
+    Cartão de Credito 
+    Cartao de Debito
+    Valores
+
+
+Bandeiras dos Cartoes
+    Cadastrar as bandeiras aceitas.
